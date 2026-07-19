@@ -3,8 +3,8 @@
 **Applicant:** Kunal Yadav  
 **Role:** Artificial Intelligence Intern — Baby Dino / Zenith
 
-## Live assignment link
-Open the review page from GitHub Pages after deploy (see repo homepage).
+## Assignment link
+https://kunaly111.github.io/zenith-jerk-ai-assignment/
 
 ## Contents
 - `index.html` — full brand & AI product review
